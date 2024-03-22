@@ -15,14 +15,11 @@ This Inventory Management System is a user-friendly application built with Pytho
 To set up the Inventory Management System on your local machine, follow these steps:
 
 1. Ensure Python is installed on your system.
-2. Clone the repository to your local environment:
+2. Clone the repository to your local environment: git clone https://github.com/micmore/Inventory-Management-System.git
+
+
+   
 ![Inventory Management System Demo](https://media.giphy.com/media/W2Abfd91C40XjN1oiK/giphy.gif)
-
-
-```bash
-git clone https://github.com/micmore/Inventory-Management-System.git
-
-
 
 
 ## How to Use
