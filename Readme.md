@@ -40,6 +40,9 @@ To set up the Inventory Management System on your local machine, follow these st
   - Access the 'Generate Reports' section.
   - Click the button to produce inventory reports to provide a detailed analysis of stock levels, item values, and more.
 
-## Contributing
+## License
 
-Remember, when contributing, to follow the project's contribution guidelines and code of conduct to ensure a collaborative and respectful environment.
+This project is released under the MIT License and is open to any form of use or modification. If you decide to utilize this code in your own projects, I kindly request that you acknowledge the original work by providing appropriate credit.
+
+Thank you for respecting the efforts that went into this development, and happy coding!
+
