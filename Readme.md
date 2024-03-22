@@ -20,6 +20,8 @@ To set up the Inventory Management System on your local machine, follow these st
 ```bash
 git clone https://github.com/micmore/Inventory-Management-System.git
 
+![FineNameGenerator](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d3cDZ3dDA3ZDc3aWd5dnIwc3JwNnkyYXFwdmRvd2JqZ2ZpOTB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2Abfd91C40XjN1oiK/giphy.gif)
+
 ## How to Use
 
 - **Managing Inventory**:
